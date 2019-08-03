@@ -1,5 +1,5 @@
 # `LeptoBot`
-> A simple bot for LeptoServer
+> A simple bot for the LeptoServer
 
 ![Tags][tag-image]
 
