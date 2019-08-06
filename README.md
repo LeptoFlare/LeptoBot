@@ -33,7 +33,7 @@ python main.py
 
 ## Footnote
 Find me - Discord: [`https://discord.gg/faUNrfP`](https://discord.gg/faUNrfP)  
-Support Me - Patreon: [`https://www.patreon.com/leptospira`](https://www.patreon.com/leptospira)  
+Support me - Patreon: [`https://www.patreon.com/leptospira`](https://www.patreon.com/leptospira)  
 
 As always, distributed under the MIT license. See `LICENSE` for more information.
 
