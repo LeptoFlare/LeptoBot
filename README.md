@@ -25,7 +25,7 @@ This bot is entirely for moderation and mostly passive. Just for simple stuff, s
 
 ## Footnote
 Find me - Discord: [`https://discord.gg/faUNrfP`](https://discord.gg/faUNrfP)  
-Support Me - Patreon: [`https://www.patreon.com/leptospira`](https://www.patreon.com/leptospira)  
+Support me - Patreon: [`https://www.patreon.com/leptospira`](https://www.patreon.com/leptospira)  
 
 As always, distributed under the MIT license. See `LICENSE` for more information.
 
