@@ -11,34 +11,26 @@ This bot is entirely for moderation and mostly passive. Just for simple stuff, s
 - Moderation.
 - Autorole assigns when a new member joins.
 
-## Setup
-### Dependencies
-- `discord`
+## Usage
+![Example Output][example-output]
 
-### Installation
+## Development Enviroment
 1. Clone the repository
    ```bash
    git clone https://github.com/LeptoSpira/LeptoBot.git
    cd LeptoBot
    pip install -r requirements.txt
    ```
-1. Add your token in a config.json
-
-## Usage
-```bash
-cd src
-python main.py
-```
-<!-- ![Example Output][example-output] -->
+1. Add your discord bot `{"token": }` in a `config.json`
 
 ## Footnote
 Find me - Discord: [`https://discord.gg/faUNrfP`](https://discord.gg/faUNrfP)  
-Support me - Patreon: [`https://www.patreon.com/leptospira`](https://www.patreon.com/leptospira)  
+Support Me - Patreon: [`https://www.patreon.com/leptospira`](https://www.patreon.com/leptospira)  
 
 As always, distributed under the MIT license. See `LICENSE` for more information.
 
 **[https://github.com/LeptoSpira/LeptoBot](https://github.com/LeptoSpira/)**
 
 <!-- Markdown link & img dfn's -->
-[tag-image]: https://img.shields.io/github/license/LeptoSpira/LeptoBot.svg
-[example-output]: https://github.com/LeptoSpira/LeptoBot/example-output.png
+[tag-image]: https://img.shields.io/github/license/LeptoSpira/PROJECTNAME.svg
+[example-output]: https://github.com/LeptoSpira/PROJECTNAME/example-output.png
