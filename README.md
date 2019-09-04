@@ -32,5 +32,5 @@ As always, distributed under the MIT license. See `LICENSE` for more information
 **[https://github.com/LeptoSpira/LeptoBot](https://github.com/LeptoSpira/)**
 
 <!-- Markdown link & img dfn's -->
-[tag-image]: https://img.shields.io/github/license/LeptoSpira/PROJECTNAME.svg
-[example-output]: https://github.com/LeptoSpira/PROJECTNAME/example-output.png
+[tag-image]: https://img.shields.io/github/license/LeptoSpira/LeptoBot.svg
+[example-output]: https://github.com/LeptoSpira/LeptoBot/example-output.png
