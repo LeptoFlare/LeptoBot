@@ -12,7 +12,7 @@ This bot is entirely for moderation and mostly passive. Just for simple stuff, s
 - Autorole assigns when a new member joins.
 
 ## Usage
-![Example Output][example-output]
+<!-- ![Example Output][example-output] -->
 
 ## Development Enviroment
 1. Clone the repository
