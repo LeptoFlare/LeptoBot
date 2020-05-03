@@ -16,4 +16,4 @@ class Client(Bot):
         self.logger.info(f'Logged in as {client.user}.')
 
 
-client = Client(command_prefix='$')
+client = Client(command_prefix='!')
