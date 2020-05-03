@@ -1,0 +1,8 @@
+version: "3.7"
+
+services:
+
+  leptobot:
+    build: .
+    image: leptobot:latest
+    restart: always
