@@ -1,3 +1,4 @@
+"""LeptoBot"""
 from discord.ext.commands import Bot
 
 from .env import env
