@@ -15,7 +15,7 @@ This bot is entirely for moderation and mostly passive. Just for simple stuff, m
 
 ### Running locally
 1. Create a `config.yml` in the repository root.
-2. Add your discord bot `token: ` in the file.
+2. Add your discord bot `token:` in the file.
 3. Run `docker-compose up --build` in the repository root.
 
 ---
