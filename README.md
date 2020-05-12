@@ -1,36 +1,31 @@
 # `LeptoBot`
 > A simple bot for the LeptoServer
 
-![Tags][tag-image]
+![License][license-shield]
+![Stars][stars-shield]
+# <!-- ![Banner](banner.png) -->
 
-This bot is entirely for moderation and mostly passive. Just for simple stuff, such as temporary mutes, bans, and auto-assigning roles.
-
-<!-- ![Header Image](header-image.png) -->
-
-## Features
-- Moderation.
+This bot is entirely for moderation and mostly passive. Just for simple stuff, mainly,
 - Autorole assigns when a new member joins.
+- Moderation, such as temporary mutes and bans.
 
-## Usage
-<!-- ![Example Output][example-output] -->
+## Contributing
+1. Fork the repository and clone it.
+2. Make a new branch to submit your pull request from.
 
-## Development Enviroment
-1. Clone the repository
-   ```bash
-   git clone https://github.com/LeptoFlare/LeptoBot.git
-   cd LeptoBot
-   pip install -r requirements.txt
-   ```
-1. Add your discord bot `{"token": }` in a `config.json`
+### Running locally
+1. Create a `config.yml` in the repository root.
+2. Add your discord bot `token: ` in the file.
+3. Run `docker-compose up --build` in the repository root.
 
-## Footnote
-Find me - Discord: [`https://discord.gg/faUNrfP`](https://discord.gg/faUNrfP)  
-Support me - Patreon: [`https://www.patreon.com/leptoflare`](https://www.patreon.com/leptoflare)  
+---
+
+Contact me · [**@LeptoFlare**](https://github.com/LeptoFlare) · [lepto.tech](https://lepto.tech)
 
 As always, distributed under the MIT license. See `LICENSE` for more information.
 
-**[https://github.com/LeptoFlare/LeptoBot](https://github.com/LeptoFlare/LeptoBot)**
+_[https://github.com/LeptoFlare/LeptoBot](https://github.com/LeptoFlare/LeptoBot)_
 
-<!-- Markdown link & img dfn's -->
-[tag-image]: https://img.shields.io/github/license/LeptoFlare/LeptoBot.svg
-[example-output]: https://github.com/LeptoFlare/LeptoBot/example-output.png
+<!-- markdown links & imgs -->
+[stars-shield]: https://img.shields.io/github/stars/LeptoFlare/LeptoBot.svg?style=social
+[license-shield]: https://img.shields.io/github/license/LeptoFlare/LeptoBot.svg?style=flat
