@@ -4,5 +4,4 @@ services:
 
   leptobot:
     build: .
-    image: leptobot:latest
     restart: always
