@@ -3,7 +3,7 @@
 
 ![License][license-shield]
 ![Stars][stars-shield]
-![Continuous Integration](ci-shield)
+![Continuous Integration][ci-shield]
 # <!-- ![Banner](banner.png) -->
 
 This bot is entirely for moderation and mostly passive. Just for simple stuff, mainly,
