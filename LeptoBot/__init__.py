@@ -4,6 +4,7 @@ from discord.ext.commands import Bot
 
 from .env import env
 from .log import logger
+from . import cogs
 
 
 class Client(Bot):
@@ -20,3 +21,5 @@ class Client(Bot):
 intents = Intents.default()
 intents.members = True
 client = Client(command_prefix='!', intents=intents)
+
+cogs.register_cogs(client)
