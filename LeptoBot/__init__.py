@@ -1,4 +1,5 @@
 """LeptoBot"""
+from discord import Intents
 from discord.ext.commands import Bot
 
 from .env import env
@@ -16,5 +17,6 @@ class Client(Bot):
         """Ready event."""
         self.logger.info(f'Logged in as {client.user}.')
 
-
-client = Client(command_prefix='!')
+intents = Intents.default()
+intents.members = True
+client = Client(command_prefix='!', intents=intents)
