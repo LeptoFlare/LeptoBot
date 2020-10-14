@@ -12,6 +12,7 @@ def register_cogs(bot):
     cogs = get_cogs(modules)
     for cog in cogs:
         bot.add_cog(cog(bot))
+        logger.info(f"Added cog: {cog.__name__}")
 
 
 def import_modules():
